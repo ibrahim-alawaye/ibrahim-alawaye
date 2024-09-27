@@ -1,5 +1,22 @@
 # 💫 About Me:
-Hi, welcome to my space! 🌊<br>I'm currently working on a data engineering project . As part of my development, I’m also open to collaboration on machine learning, data analysis, or data engineering projects. I have a strong interest in streaming data, high-level data management, and large datasets.<br><br>I’m always on the lookout for open opportunities and jobs that will help me further my learning and growth in the field. My goal is to become one of the best in the industry.<br><br>What I’m working on:<br>Expanding my knowledge and skills with AWS for technical development.<br>Preparing for my AWS Certified Data Engineering certification.<br>Feel free to ask me about data engineering or any issues you might have with tools like Apache Airflow, Apache NiFi, Azure, or AWS. I’m also in the process of learning about GCP.<br><br>Fun facts about me:<br>I love learning new things, especially in data pipeline design and detailed data workflows.<br>I enjoy working with data tools and often design pipelines just for fun!<br>Looking forward to connecting and collaborating!
+Hi, welcome to my space! 🌊
+
+I'm currently working on a **data engineering project** both stream or batch. As part of my development, I’m also open to collaboration on **machine learning**, **data analysis**, or **data engineering** projects. I have a strong interest in **streaming data**, **high-level data management**, and **large datasets**.
+
+I’m always on the lookout for **open opportunities** and jobs that will help me further my learning and growth in the field. My goal is to become one of the best in the industry.
+
+## What I’m working on:
+- Expanding my knowledge and skills with **AWS**.
+- Preparing for my **AWS Certified Data Engineering certification**.
+
+Feel free to ask me about **data engineering** or any issues you might have with tools like **Apache Airflow**, **Apache NiFi**, **Azure**, or **AWS** and many more. I’m also in the process of learning about **GCP**.
+
+## Fun facts about me:
+- I love learning new things, especially in **data pipeline design** and **detailed data workflows**.
+- I enjoy working with data tools and often design pipelines just for fun!
+
+Looking forward to connecting and collaborating!
+
 
 
 ## 🌐 Socials:
