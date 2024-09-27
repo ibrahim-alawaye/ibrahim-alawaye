@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi, welcome to my space! 🌊
 
-I'm currently working on a **data engineering project** both stream or batch. As part of my development, I’m also open to collaboration on **machine learning**, **data analysis**, or **data engineering** projects. I have a strong interest in **streaming data**, **high-level data management**, and **large datasets**.
+I'm currently working on a **data engineering project** both stream and batch. As part of my development, I’m also open to collaboration on **machine learning**, **data analysis**, or **data engineering** projects. I have a strong interest in **streaming data**, **high-level data management**, and **large datasets**.
 
 I’m always on the lookout for **open opportunities** and jobs that will help me further my learning and growth in the field. My goal is to become one of the best in the industry.
 
