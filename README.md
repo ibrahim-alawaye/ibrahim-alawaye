@@ -7,7 +7,6 @@ I’m always on the lookout for **open opportunities** and jobs that will help m
 
 ## What I’m working on:
 - Expanding my knowledge and skills with **AWS**.
-- Preparing for my **AWS Certified Data Engineering certification**.
 
 Feel free to ask me about **data engineering** or any issues you might have with tools like **Apache Airflow**, **Apache NiFi**, **Azure**, or **AWS** and many more. I’m also in the process of learning about **GCP**.
 
